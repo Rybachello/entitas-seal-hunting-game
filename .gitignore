@@ -1,0 +1,21 @@
+# Unity generated #
+**/Temp/
+**/Library/
+**/Extern/
+**/AssetBundles/
+**/Packages/
+
+
+# Visual Studio / MonoDevelop generated #
+**/ExportedObj/
+**/.vs/
+**/obj/
+**/*.svd
+**/*.userprefs
+**/*.csproj
+**/*.pidb
+**/*.suo
+**/*.sln
+**/*.user
+**/*.unityproj
+**/*.booproj
